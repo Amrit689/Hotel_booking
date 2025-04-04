@@ -7,7 +7,7 @@
   
   .navContainer{
     width: 100%;
-    color: white;
+    color: rgb(245, 245, 245);
     display: flex;
     align-items: center;
     justify-content: space-between;
@@ -23,5 +23,5 @@
     border: none;
     padding: 5px 10px;
     cursor: pointer;
-    color: #003580;
+    color: #c7d1da;
   }
