@@ -4,13 +4,12 @@ import FeaturedProperties from "../../components/featuredProperties/FeaturedProp
 import Footer from "../../components/footer/Footer";
 import Header from "../../components/header/Header";
 import "./home.css";
-
 const Home = () => {
   return (
     <div>
       <Navbar />
       <Header />
-      
+
       <div className="homeContainer">
         <div className="homeTitle"></div>
         <div className="homeDescription">
